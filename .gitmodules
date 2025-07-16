@@ -1,3 +1,6 @@
 [submodule "Bachelor"]
 	path = Bachelor
 	url = https://github.com/FMI-Materials/FMI-Bachelor-Materials
+[submodule "Master"]
+	path = Master
+	url = https://github.com/FMI-Materials/FMI-Master-Materials
