@@ -1,3 +1,15 @@
 [submodule "Bachelor"]
 	path = Bachelor
 	url = https://github.com/FMI-Materials/FMI-Bachelor-Materials
+[submodule "Master/Natural Language Processing"]
+	path = Master/Natural Language Processing
+	url = https://github.com/FMI-Materials/FMI-Master-NLP-Materials
+[submodule "Master/Inginerie Software"]
+	path = Master/Inginerie Software
+	url = https://github.com/FMI-Materials/FMI-Master-IS-Materials
+[submodule "Master/Baze De Date Si Tehnologii Software"]
+	path = Master/Baze De Date Si Tehnologii Software
+	url = https://github.com/FMI-Materials/FMI-Master-BDTS-Materials
+[submodule "Master/Security And Applied Logic"]
+	path = Master/Security And Applied Logic
+	url = https://github.com/FMI-Materials/FMI-Master-SAL-Materials
