@@ -13,3 +13,12 @@
 [submodule "Master/Security And Applied Logic"]
 	path = Master/Security And Applied Logic
 	url = https://github.com/FMI-Materials/FMI-Master-SAL-Materials
+[submodule "Master/Artificial Intelligence"]
+	path = Master/Artificial Intelligence
+	url = https://FMI-Materials@github.com/FMI-Materials/FMI-Master-AI-Materials
+[submodule "Master/Data Science"]
+	path = Master/Data Science
+	url = https://FMI-Materials@github.com/FMI-Materials/FMI-Master-DS-Materials
+[submodule "Master/Sisteme Distribuite"]
+	path = Master/Sisteme Distribuite
+	url = https://FMI-Materials@github.com/FMI-Materials/FMI-Master-SD-Materials
